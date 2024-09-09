@@ -2,9 +2,9 @@
 
 - 👀 I’m a Senior Artificial Intelligent and Data Science at **Egypt Japan University of Science and Technology**
 
-- 👨‍💻 I am interested in **Machine learning, and Data Science**
-
 - 🔭 I’m currently working on **building ELT pipelines and data warehousing solutions**
+
+- 👨‍💻 I am interested in **Machine learning, and Data Science**
 
 - 📫 How to reach me **esraamamdouh782@gmail.com**
 
