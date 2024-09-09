@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Esraa Mamdouh</h1>
-<h3 align="center">A passionate computer science student, highly motivated about machine learning, with a passion for data science, and problem-solving</h3>
 
 - 🔭 I’m a Senior Artificial Intelligent and Data Science at **Egypt Japan University of Science and Technology**
 
